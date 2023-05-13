@@ -52,3 +52,4 @@ With 5000 iterations, this training process took around 12 mins to complete
 
 ## References
 1. Attention is all you need. https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15839671.pdf
+2. Building a tokenizer, block by block. https://huggingface.co/learn/nlp-course/chapter6/8?fw=pt
