@@ -26,7 +26,7 @@ I picked the `wikitext-2` dataset from
 ## Requirements
 - NVIDIA GPU with driver installed (Recommended)
 - CUDA 11.7+, and CuDNN (Recommended)
-- Pytorch 1.0+
+- Pytorch 2.0
 - Numpy
 
 It does not matter if there is no NVIDIA Graphic card/CUDA driver installed in your local machine, the computation will still works with your CPU (But training process will took longer time).
