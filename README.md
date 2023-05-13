@@ -48,10 +48,12 @@ With 5000 iterations, this training process took around 12 mins to complete
 (may take shorter time if you had recent graphic cards).
 
 ## TODO
-- [] Decode and generate PDF from input text
-- [] Semantic analysis with Cosine Similarity based on input resume keywords
-- [] Build docker container
+- [ ] Decode and generate PDF from input text
+- [ ] Replace Positional Embedding with <b>Rotary Positional Embedding</b>
+- [ ] Semantic analysis with Cosine Similarity based on input resume keywords
+- [ ] Build docker container
 
 ## References
 1. Attention is all you need. https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15839671.pdf
 2. Building a tokenizer, block by block. https://huggingface.co/learn/nlp-course/chapter6/8?fw=pt
+3. Coursera Deep Learning Specialization, week 4. Transformers. https://www.coursera.org/learn/nlp-sequence-models/home/week/4
