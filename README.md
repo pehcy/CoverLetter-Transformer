@@ -6,6 +6,8 @@ a combination of encoder and decoder layers.
 However, in this project I am just using only
 the decoder layer.
 
+![](transformer.jpg)
+
 The masked self attention layer is formulated 
 as:
 
